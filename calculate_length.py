@@ -13,9 +13,6 @@ from tkinter.ttk import *
 
 import arcpy
 
-
-# C:\GIS\Data\digitize_scratch\lines.shp
-
 # setting LENGTH as the geometry variable to be used for all functions 
 l = "LENGTH"
 
